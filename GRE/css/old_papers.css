@@ -1,0 +1,7 @@
+.row{
+	border-left: 8px solid rgb(61, 61, 61);
+}
+
+.row:hover {
+	border-color: rgb(249, 77, 77);
+}
